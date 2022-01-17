@@ -3,37 +3,37 @@ using series.registration.Interfaces;
 
 namespace series.registration
 {
-    public class SerieRepositorio : Interfaces.IRepositorio<Serie>
+    public class SerieRepositorio : IRepositorio<Serie>
     {
         private List<Serie> seriesList = new List<Serie>();
         public void Delet(int id)
         {
-            throw new System.NotImplementedException();
+            seriesList[id].Delete();
         }
 
-        public void Insert(Serie entidade)
+        public void Insert(Serie objeto)
         {
-            throw new System.NotImplementedException();
+            seriesList.Add(objeto);
         }
 
-        public List<Serie> Lista()
+        public List<Serie> List()
         {
-            throw new System.NotImplementedException();
+            return seriesList;
         }
 
         public int NextId()
         {
-            throw new System.NotImplementedException();
+            return seriesList.Count;
         }
 
         public Serie ReturnById(int id)
         {
-            throw new System.NotImplementedException();
+            return seriesList[id];
         }
 
-        public void Update(int id, Serie entidade)
+        public void Update(int id, Serie objeto)
         {
-            throw new System.NotImplementedException();
+            seriesList[id] = objeto;
         }
     }
 

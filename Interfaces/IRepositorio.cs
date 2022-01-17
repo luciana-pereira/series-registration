@@ -4,7 +4,7 @@ namespace series.registration.Interfaces
 {
     public interface IRepositorio<T>
     {
-        List<T> Lista();
+        List<T> List();
         T ReturnById(int id);
         void Insert(T entidade);
         void Delet(int id);

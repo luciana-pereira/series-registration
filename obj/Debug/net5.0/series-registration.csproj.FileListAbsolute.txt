@@ -1,0 +1,16 @@
+C:\Users\l.dos.santos.souza\Desktop\series-registration\obj\Debug\net5.0\series-registration.csproj.AssemblyReference.cache
+C:\Users\l.dos.santos.souza\Desktop\series-registration\obj\Debug\net5.0\series-registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.dos.santos.souza\Desktop\series-registration\obj\Debug\net5.0\series-registration.AssemblyInfoInputs.cache
+C:\Users\l.dos.santos.souza\Desktop\series-registration\obj\Debug\net5.0\series-registration.AssemblyInfo.cs
+C:\Users\l.dos.santos.souza\Desktop\series-registration\obj\Debug\net5.0\series-registration.csproj.CoreCompileInputs.cache
+C:\Users\l.dos.santos.souza\Desktop\series-registration\bin\Debug\net5.0\series-registration.exe
+C:\Users\l.dos.santos.souza\Desktop\series-registration\bin\Debug\net5.0\series-registration.deps.json
+C:\Users\l.dos.santos.souza\Desktop\series-registration\bin\Debug\net5.0\series-registration.runtimeconfig.json
+C:\Users\l.dos.santos.souza\Desktop\series-registration\bin\Debug\net5.0\series-registration.runtimeconfig.dev.json
+C:\Users\l.dos.santos.souza\Desktop\series-registration\bin\Debug\net5.0\series-registration.dll
+C:\Users\l.dos.santos.souza\Desktop\series-registration\bin\Debug\net5.0\ref\series-registration.dll
+C:\Users\l.dos.santos.souza\Desktop\series-registration\bin\Debug\net5.0\series-registration.pdb
+C:\Users\l.dos.santos.souza\Desktop\series-registration\obj\Debug\net5.0\series-registration.dll
+C:\Users\l.dos.santos.souza\Desktop\series-registration\obj\Debug\net5.0\ref\series-registration.dll
+C:\Users\l.dos.santos.souza\Desktop\series-registration\obj\Debug\net5.0\series-registration.pdb
+C:\Users\l.dos.santos.souza\Desktop\series-registration\obj\Debug\net5.0\series-registration.genruntimeconfig.cache
